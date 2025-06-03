@@ -155,7 +155,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://instagram.com/webcraft.design"
+                  href="https://www.instagram.com/idea2site?utm_source=qr&igsh=aHN0MWJ0aWFpNW9o"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-4 p-4 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300 group"
