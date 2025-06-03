@@ -104,7 +104,7 @@ export default function PortfolioSection() {
           </p> 
           <p className="ext-xl font-semibold">
             We don’t just work on projects.
-We work with people—closely, collaboratively, and passionately.
+We work with people— User friendly , collaboratively, and passionately.
           </p>
         </motion.div>
 
