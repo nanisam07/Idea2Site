@@ -7,7 +7,7 @@ export const metadata = {
   description: "Transforming businesses through innovative technology solutions",
     generator: 'v0.dev',
     icons: {
-    icon: "/idea2site.ico", // or .png if that's your file
+    icon: "/idea2site.png", // or .png if that's your file
   },
 }
 
