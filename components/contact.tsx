@@ -127,7 +127,7 @@ export default function Contact() {
 
               <div className="space-y-6">
                 <a
-                  href="mailto:projects@idea2site.com"
+                  href="mailto:team.idea2site@gmail.com"
                   className="flex items-center space-x-4 p-4 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300 group"
                 >
                   <div className="w-12 h-12 bg-gradient-to-br from-cyan-400 to-purple-400 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
