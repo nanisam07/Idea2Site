@@ -11,7 +11,7 @@ const projects = [
   title: "IdeaMart – Modern E-Commerce Platform",
   description:
     "A premium e-commerce platform inspired by Amazon and Flipkart, featuring product discovery, category browsing, wishlist management, shopping cart functionality, and a seamless checkout experience.",
-  image: "/images/IdeaMart.png",
+  image: "/public/ideamart.png",
   tags: ["React", "TypeScript", "Tailwind CSS", "E-Commerce"],
   liveUrl: "https://idea-mart.idea2site.in/",
   githubUrl: "https://github.com/nanisam07/IdeaMart",
@@ -21,7 +21,7 @@ const projects = [
   title: "IdeaFlow – SaaS Analytics Dashboard",
   description:
     "A modern SaaS analytics platform built for tracking KPIs, customer insights, project performance, and business growth through interactive dashboards and real-time visualizations.",
-  image: "/images/IdeaFlow.png",
+  image: "sass.jpg",
   tags: ["React", "TypeScript", "Tailwind CSS", "SaaS"],
   liveUrl: "https://ideaflow.idea2site.in/",
   githubUrl: "YOUR_GITHUB_REPO_LINK",
